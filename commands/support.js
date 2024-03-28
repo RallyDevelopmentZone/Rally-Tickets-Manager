@@ -24,7 +24,7 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-     const supportServerLink = 'https://discord.gg/FUEHs7RCqz';
+     const supportServerLink = 'https://discord.gg/3QaPhdGxWx';
         const embed = new EmbedBuilder()
             .setColor('#FFFFFF')
             .setTitle('Support server')
